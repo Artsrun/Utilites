@@ -1,0 +1,21 @@
+/*==Code Debuging ==*/
+
+#code
+```
+
+
+```
+#Question : "
+Chrome adds v version prefix which damges file example "5.png_v=20230407121914302" 
+seems like some default behaviour mabe disabe from settings ? "
+
+/*==Mail ==*/
+Hi answer  on my behalf to following  Mail --
+"```
+{mail body}
+
+ ```" 
+My answer ---
+"
+{Answer goes here}
+"
