@@ -19,3 +19,7 @@ My answer ---
 "
 {Answer goes here}
 "
+
+/*==Tutorial  ==*/
+
+--generate step by step tutorial about {Subject} like I’m a {person}
